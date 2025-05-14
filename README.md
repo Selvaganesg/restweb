@@ -1,6 +1,6 @@
 # Ex.07 Restaurant Website
 
-**Date:** 07.05.25
+## Date:07/05/25
 
 **AIM:**
 
@@ -509,7 +509,7 @@ contact.html
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](image-4.png)
 **RESULT:**
 
 The program for designing software company website using HTML and CSS is completed successfully.
